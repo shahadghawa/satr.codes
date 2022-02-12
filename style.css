@@ -1,0 +1,66 @@
+body {
+ 
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(12, 4, 88);
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+ 
+  li a:hover {
+    background-color: rgb(19, 6, 88);
+  }
+ div {
+    float: right;
+  }
+  IMG.displayed {
+    display: block;
+    margin-left: auto;
+    padding: 15xp;
+    margin-right: auto }
+  P {
+  
+    margin-right: auto; 
+    margin-left: auto;
+  }
+  .center {
+    text-align: center;
+    color: rgb(18, 4, 82);
+   
+  }
+button {
+      display: inline-block;
+      padding: 15px 25px;
+      font-size: 24px;
+      cursor: pointer;
+      margin: 0 auto;
+      display: block;
+      text-align:15px;
+      text-decoration: none;
+      outline: none;
+      color: #fff;
+      background-color: #1c0766;
+      border: 2px solid #220761; 
+      border-radius: 15px;
+    
+    }
